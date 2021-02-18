@@ -20,7 +20,7 @@ CATEGORY -I (Hand Made Poster)
 
 
 CATEGORY -II (Digital Poster)                                      
-|Name                  |Uni. Roll. No |Year   |Branch  |Position     |
+|Name                      |Uni. Roll. No |Year   |Branch  |Position     |
 |---------------------|--------------|-------|--------|-------------|
 |Samarth Sharma       |1706299       |D3     |CE      |FIRST        |
 |Tushar Chauhan       |1706533       |D3     |ME      |SECOND       |
