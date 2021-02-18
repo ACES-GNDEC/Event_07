@@ -6,11 +6,11 @@ An event “Poster Making Contest” organized by Association of Civil Engineeri
 
 
 ## Winners
-|CATEGORY -I (Hand Made Poster)                                     |
+CATEGORY -I (Hand Made Poster)                                     
 |Name                 |Uni. Roll. No |Year   |Branch  |Position     |
 |---------------------|--------------|-------|--------|-------------|
 |Bhupinder Pratap     |1904831       |D1     |CE      |FIRST        |
-|Tanvi Panwar         |1805566       |D2    |IT      |FIRST        |
+|Tanvi Panwar         |1805566       |D2     |IT      |FIRST        |
 |Priyanka Sroya       |1805432       |D2     |ECE     |SECOND       |
 |Kamya Arora          |1706453       |D3     |CSE     |SECOND       |
 |Roseleen Kaur        |1905145       |D1     |EE      |THIRD        |
@@ -18,7 +18,8 @@ An event “Poster Making Contest” organized by Association of Civil Engineeri
 |Shivam Kumar Singh   |1805102       |D2     |CE      |CONSOLATION  |
 |Kanishka Sharma      |1905349       |D1     |IT      |CONSOLATION  |
 
-|CATEGORY -II (Digital Poster)                                      |
+
+CATEGORY -II (Digital Poster)                                      
 |Name                 |Uni. Roll. No |Year   |Branch  |Position     |
 |---------------------|--------------|-------|--------|-------------|
 |Samarth Sharma       |1706299       |D3     |CE      |FIRST        |
